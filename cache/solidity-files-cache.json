@@ -1,0 +1,301 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "C:\\Users\\admin\\OneDrive\\bcpfs_platform_en\\contracts\\RegistrationContract.sol": {
+      "lastModificationDate": 1759718812956,
+      "contentHash": "86723b1cc7f456de558d85fde804284f",
+      "sourceName": "contracts/RegistrationContract.sol",
+      "solcConfig": {
+        "version": "0.8.28",
+        "settings": {
+          "evmVersion": "paris",
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.0"
+      ],
+      "artifacts": [
+        "RegistrationContract"
+      ]
+    },
+    "C:\\Users\\admin\\OneDrive\\bcpfs_platform_en\\contracts\\SchedulingContract.sol": {
+      "lastModificationDate": 1759718812956,
+      "contentHash": "79e2e7aa719efd1aabe65a53b8b060fd",
+      "sourceName": "contracts/SchedulingContract.sol",
+      "solcConfig": {
+        "version": "0.8.28",
+        "settings": {
+          "evmVersion": "paris",
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.0"
+      ],
+      "artifacts": [
+        "IRegistrationContract",
+        "IStatusReportingContract",
+        "SchedulingContract"
+      ]
+    },
+    "C:\\Users\\admin\\OneDrive\\bcpfs_platform_en\\contracts\\SettlementContract.sol": {
+      "lastModificationDate": 1759718812956,
+      "contentHash": "6c0735482cc6ae48f8dbf4912380fd82",
+      "sourceName": "contracts/SettlementContract.sol",
+      "solcConfig": {
+        "version": "0.8.28",
+        "settings": {
+          "evmVersion": "paris",
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.0"
+      ],
+      "artifacts": [
+        "IRegistrationContract",
+        "ISchedulingContract",
+        "SettlementContract"
+      ]
+    },
+    "C:\\Users\\admin\\OneDrive\\bcpfs_platform_en\\contracts\\StatusReportingContract.sol": {
+      "lastModificationDate": 1759718812955,
+      "contentHash": "8c22b0a5e2b256621c589af90985e903",
+      "sourceName": "contracts/StatusReportingContract.sol",
+      "solcConfig": {
+        "version": "0.8.28",
+        "settings": {
+          "evmVersion": "paris",
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.0"
+      ],
+      "artifacts": [
+        "StatusReportingContract"
+      ]
+    },
+    "C:\\Users\\admin\\Desktop\\survey\\BC-PFS\\contracts\\RegistrationContract.sol": {
+      "lastModificationDate": 1759813076500,
+      "contentHash": "86723b1cc7f456de558d85fde804284f",
+      "sourceName": "contracts/RegistrationContract.sol",
+      "solcConfig": {
+        "version": "0.8.28",
+        "settings": {
+          "evmVersion": "paris",
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.0"
+      ],
+      "artifacts": [
+        "RegistrationContract"
+      ]
+    },
+    "C:\\Users\\admin\\Desktop\\survey\\BC-PFS\\contracts\\SchedulingContract.sol": {
+      "lastModificationDate": 1759813076500,
+      "contentHash": "7e638bb76d268049b5d0f1b97f0f040c",
+      "sourceName": "contracts/SchedulingContract.sol",
+      "solcConfig": {
+        "version": "0.8.28",
+        "settings": {
+          "evmVersion": "paris",
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.0"
+      ],
+      "artifacts": [
+        "IRegistrationContract",
+        "IStatusReportingContract",
+        "SchedulingContract"
+      ]
+    },
+    "C:\\Users\\admin\\Desktop\\survey\\BC-PFS\\contracts\\SettlementContract.sol": {
+      "lastModificationDate": 1759813076500,
+      "contentHash": "1e7b5adee18d9e893ff629d72cf6a26c",
+      "sourceName": "contracts/SettlementContract.sol",
+      "solcConfig": {
+        "version": "0.8.28",
+        "settings": {
+          "evmVersion": "paris",
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.0"
+      ],
+      "artifacts": [
+        "IRegistrationContract",
+        "ISchedulingContract",
+        "SettlementContract"
+      ]
+    },
+    "C:\\Users\\admin\\Desktop\\survey\\BC-PFS\\contracts\\StatusReportingContract.sol": {
+      "lastModificationDate": 1759813076501,
+      "contentHash": "3117273b82b946ddb82e4378b95ee07a",
+      "sourceName": "contracts/StatusReportingContract.sol",
+      "solcConfig": {
+        "version": "0.8.28",
+        "settings": {
+          "evmVersion": "paris",
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.0"
+      ],
+      "artifacts": [
+        "StatusReportingContract"
+      ]
+    }
+  }
+}

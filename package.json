@@ -1,0 +1,25 @@
+{
+  "name": "bcpfs-minimal",
+  "version": "1.0.0",
+  "description": "基于区块链的比例公平调度原型验证平台",
+  "main": "bcpfs-runner.js",
+  "scripts": {
+    "start": "npx hardhat run bcpfs-runner.js",
+    "compile": "npx hardhat compile"
+  },
+  "keywords": [
+    "blockchain",
+    "scheduling",
+    "smart-contracts",
+    "proportional-fair"
+  ],
+  "license": "MIT",
+  "devDependencies": {
+    "@nomiclabs/hardhat-ethers": "^2.2.3",
+    "hardhat": "^2.17.0"
+  },
+  "dependencies": {
+    "ethers": "^5.7.2",
+    "chalk": "^4.1.2"
+  }
+}
